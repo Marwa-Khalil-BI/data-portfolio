@@ -58,7 +58,7 @@ superstore-sales-dashboard/
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard-screenshot.jpg)
+![Dashboard Screenshot](dashboard-screenshot.jpg)
 
 ---
 
