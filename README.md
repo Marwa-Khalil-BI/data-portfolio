@@ -58,7 +58,7 @@ superstore-sales-dashboard/
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.jpg)
+![Dashboard Screenshot]([dashboard-screenshot.jpg](https://github.com/Marwa-Khalil-BI/data-portfolio/blob/main/Project%20linked%20In.jpg?raw=true))
 
 ---
 
