@@ -78,4 +78,4 @@ This dashboard was created using sample fictional data and is intended for educa
 ---
 
 🔗 **Created by:** *Marwa Khalil*  
-📬 Feel free to connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/marwa-s-khalil/)
+📬 Feel free to connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/marwa-s-khalil/))
